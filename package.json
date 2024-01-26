@@ -1,0 +1,20 @@
+{
+  "name": "algorithm-code-challenge",
+  "version": "1.0.0",
+  "description": "algorithmic-code-challenge",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "author": "Romulo Rodrigues",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.9",
+    "@babel/preset-env": "^7.23.9",
+    "babel-jest": "^29.7.0"
+  }
+}
